@@ -28,7 +28,7 @@ Tip: Check out other projects in the repo before sending a PR
 
 Template: 
 ```
-Project Idea #0:
+Project Idea: /** Name of project */
 
 Problem Statement: 
 - /** Describe Project Idea here in 2-3 points */
