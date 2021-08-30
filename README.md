@@ -16,7 +16,8 @@ How do you come up with a project idea?
 - Make your customer's life easy ($$$) 
 
 
-# How to contribute?
+
+# how-to-contribute
 
 - Copy the below template
 - Create a new `.md` file in the repo
