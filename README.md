@@ -26,6 +26,7 @@ How do you come up with a project idea?
 
 Tip: Check out other projects in the repo before sending a PR
 
+Template: 
 ```
 Project Idea #0:
 
