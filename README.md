@@ -15,7 +15,6 @@ How do you come up with a project idea?
 - Solve the problem using tech (online-based)
 - Make your customer's life easy ($$$) 
 
-________________________________________________
 
 # How to contribute?
 
