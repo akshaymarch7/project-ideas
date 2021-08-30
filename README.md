@@ -17,121 +17,32 @@ How do you come up with a project idea?
 
 ________________________________________________
 
+# How to contribute?
+
+- Copy the below template
+- Create a new `.md` file in the repo
+- Send a PR
+- Tag me for a review! ✌️ 
+
+Tip: Check out other projects in the repo before sending a PR
+
+```
 Project Idea #0:
 
 Problem Statement: 
-- We struggle to find teammates for our project
-- eg. I am a web dev, I want to find a backend?? & vice-versa
-- Find Simran
-
-Solution:
-- Poratl where you can find your simran?
-- findsimran.com - Find your project partner
+- /** Describe Project Idea here in 2-3 points */
 
 Features: 
-- Login
-- create a profile(mini resume)
-- Fill your preferences - Tech Stack, Skills, YEO/College year
-- Focus Are profile -  skills, tech, github graph
+- /** List down all important features/sub features */
 
 Success metrics: 
-- We have helped 1000+ developers connect with each other and build projects together
-- Checkout findsimran.com to find yotu perfect project partner
+- /** What do you think is target metrics for sucess of this project */
 
 Extras: 
-- Intergate with Leetcode/Hackeerrank/ Github
-- - Bookmark
-- Connect/Caht 
-- iff both swipe right the nonly you can chat
-- Showcase projects
+- /** Extra features (beyond MVP) and any extra information to support your ideas */
 
-Make money: 
-- Ad revenue
-- Memberships(Premium)
-- buy me coffee/Patreaon
-- Sell your projects
-- Sell Books/Courses - $$$$$
+Make money:  
+- /** Can this project make money? List down all possible ways to generate revenue  */
 
-__________________________________________
-
-Project Idea #1:
-
-Problem Statement: 
-- Restrictions on weddings because of COVID
-- Lot of problems are ther while arrangements
-- A e2e Online Wedding Planner
-
-Features: 
-- Sending Invites to relatives
-- Prebuilt invite templates
-- Import Contacts/ Whatsapp/Facebook
-- Book wedding resort
-- Live Stream 
-- Online Games for - Mahila Sangeet
-- Send Invites/Reminders for Haldi, and small functions
-- payment Integrations
-- AAshirwaad, send money!! - token of Shagun
-- Collab with Photographers, Videgraphers, decorations
-- Affiliates Amazong
-- Book Honeymoon Packages!
-
-Success Metrics:
-- We have helped 100+ people getting married
-- Good Karma!
-
-_________________________________________________
-
-Project Idea #3:
-- I forget birthday
-- One stop Birthday Planner
-
-Features: 
-- facebook Integration/ Social media
-- Reminders 
-- Birthday Planning suggestions
-  - Customised wishes(+add watermarks)
-  - Automatically schedule posts/stories on Whatsapp/ Facebook 
-  - Giftcards
-- Create Group & pLan birthday
-  - Every one uploades a short 
-  - Contribute Money in group(everyone payes tehre)
-  - Chat option to plan birthdays
-  - Book Cake 
-  - Polls
-- Suggestinsane gift ideas 
-  - customize pillow
-  - printed coffee mugs
-  - t shirt
-  - Affiliate Money
-- Booking event venu/ Virtual Parties
-- Machine Learning: 
-  - Facebook/Social media data - suggest gifts
-  - if someone is a programmer, gift accordingly
-- pro memberships
-
-Success Metrics: 
-- Helped organize 500+ birthday 
-
-_________________________________________________
-
-
-
-
-
-Think about: 
-
-Divorces
-Book Lawyaers
-
-
-
-
-
-
-
-
-
-
-
-
+```
 
