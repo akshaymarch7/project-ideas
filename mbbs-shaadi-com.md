@@ -21,3 +21,7 @@ Extras:
 - Collecting data points like previous colleges, work experiences, work location for better matchmaking
 - Modern matchmaking site kind of user experience.
 
+
+Make money:  
+- As discussed in the livestream(the wedding planner project)
+
