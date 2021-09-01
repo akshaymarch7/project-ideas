@@ -17,4 +17,7 @@ Success metrics:
 - Could be successful, maybe!!!
 
 
+Extras: 
+- Collecting data points like previous colleges, work experiences, work location for better matchmaking
+- Modern matchmaking site kind of user experience.
 
