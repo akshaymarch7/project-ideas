@@ -23,7 +23,7 @@ Extras:
 - Intergate with Leetcode/Hackeerrank/ Github
 - - Bookmark
 - Connect/Caht 
-- iff both swipe right the nonly you can chat
+- if both swipe right the nonly you can chat
 - Showcase projects
 
 Make money: 
