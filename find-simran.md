@@ -2,11 +2,11 @@
 
 Problem Statement: 
 - We struggle to find teammates for our project
-- eg. I am a web dev, I want to find a backend?? & vice-versa
+- eg. I am a frontend web dev, I want to find a backend?? & vice-versa
 - Find Simran
 
 Solution:
-- Poratl where you can find your simran?
+- Portal where you can find your simran?
 - findsimran.com - Find your project partner
 
 Features: 
@@ -21,7 +21,7 @@ Success metrics:
 
 Extras: 
 - Intergate with Leetcode/Hackeerrank/ Github
-- - Bookmark
+- Bookmark
 - Connect/Caht 
 - iff both swipe right the nonly you can chat
 - Showcase projects
