@@ -20,4 +20,4 @@ Extras:
 - Notification
 
 Make money:  
-- Sell your projects to different colege students.
+- Sell your projects to different college students.
